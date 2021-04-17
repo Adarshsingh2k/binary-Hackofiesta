@@ -19,6 +19,7 @@ body{
     background-color: rgba(0, 2, 0, 0.226);
     
 }
+
 .intro{
     text-align: center;
 }
@@ -70,9 +71,10 @@ body{
     
 }
 
-.intro3 p{
+.intro3 span{
     font-family: 'Open Sans', sans-serif;
-    font-size: 25px;
+    font-size: 1em;
+    color: black;
     font-weight: 600;
 }
 
