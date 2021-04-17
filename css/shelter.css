@@ -14,12 +14,34 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+.sahelimodal{
+    float: right;
+    margin-top: 50px;
+    
+}
 
+.button{
+    background-color: transparent;
+    border: none;
+    border-radius: 50%;
+}
+
+.button:hover{
+    background-color: orange;
+    border: none;
+    border-radius: 45%;
+   
+}
 .naav{
     background-color: rgba(0, 2, 0, 0.226);
     
 }
 
+.nhead{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    
+}
 .intro{
     text-align: center;
 }
