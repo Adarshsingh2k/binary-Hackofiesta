@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body{
+    background-image: url("../img/bg1.png");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.naav{
+    background-color: rgba(0, 2, 0, 0.226);
+    
+}
+.intro{
+    text-align: center;
+}
+
+.intro h2{
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    font-weight: 600;
+
+}
+.intro p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.intro2{
+    text-align: center;
+}
+
+.intro2 h2{
+
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.intro2 p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.intro3{
+    background-image: url("../img/sbg1.png");
+    border-radius: 30px;
+    height: auto;
+    text-align: center;
+    color: antiquewhite;
+    padding: 10px;
+
+}
+
+.intro3 h2{
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    font-weight: 200;
+    
+}
+
+.intro3 p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.form{
+    
+}
