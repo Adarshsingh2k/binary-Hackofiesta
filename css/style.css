@@ -36,6 +36,12 @@ body{
     background-color: rgba(0, 2, 0, 0.226);
     
 }
+
+.nhead{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    
+}
 .intro{
     text-align: center;
 }
