@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body{
+    background-image: url("../img/bg1.png");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sahelimodal{
+    float: right;
+    margin-top: 50px;
+    
+}
+
+.button{
+    background-color: transparent;
+    border: none;
+    border-radius: 50%;
+}
+
+.button:hover{
+    background-color: orange;
+    border: none;
+    border-radius: 45%;
+   
+}
+.naav{
+    background-color: rgba(0, 2, 0, 0.226);
+    
+}
+
+.nhead{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    
+}
+.intro{
+    text-align: center;
+}
+
+.intro h2{
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    font-weight: 600;
+
+}
+.intro p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.intro2{
+    text-align: center;
+}
+
+.intro2 h2{
+
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    font-weight: 600;
+}
+.intro2 li{
+    list-style: none;
+   
+}
+.intro2 p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.flg h2{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.intro3{
+    background-image: url("../img/sbg1.png");
+    border-radius: 30px;
+    height: auto;
+    text-align: center;
+    color: antiquewhite;
+    padding: 10px;
+
+}
+
+.intro3 h2{
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    font-weight: 200;
+    
+}
+
+.intro3 span{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    color: black;
+    font-weight: 600;
+}
+
