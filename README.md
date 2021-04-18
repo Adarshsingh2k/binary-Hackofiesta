@@ -29,3 +29,7 @@
 </ul>
 
 <h5>Link to Project:-https://dev-calm2.pantheonsite.io/news/ </h5>
+
+<h5>Image preview of email sent</h5>
+            <img src="./img/emergency.jpeg" style="width: 450px;" alt="">
+      
