@@ -19,4 +19,13 @@
 
 </ul>
 
+<h2>How to setup projrct Locally</h2>
+<ul>
+    <li>First Download the zip folder from github</li>
+
+    <li>Now Extract all the files at one location </li>
+
+    <li>Run the index.html file on your Browser </li>
+</ul>
+
 <h5>Link to Project:-https://dev-calm2.pantheonsite.io/news/ </h5>
